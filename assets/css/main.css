@@ -4159,6 +4159,27 @@ input, select, textarea {
 
 	}
 
+	.skills-text-wrapper {
+		display: flex;
+		justify-content: space-evenly;
+	}
+
+	.skills-img-wrapper {
+		display: flex;
+		justify-content: space-evenly;
+	}
+
 	.skills {
-		width: 8%;
+		width: 52px;
+		height: 50px;
+	}
+
+	.skills-mongoose {
+		width: 100px;
+		height: 50px;
+	}
+
+	.skills-npm {
+		width: 80px;
+		height: 50px;
 	}
