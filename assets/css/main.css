@@ -46,6 +46,7 @@ blockquote, q {
 		content: none;
 	}
 
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
@@ -4255,4 +4256,17 @@ input, select, textarea {
 
 	.click-links a {
 		border-bottom: none;
+	}
+
+	.contact-github-img {
+		width: 9%;
+	}
+
+	#github-contact {
+		padding-left: 0;
+		display: flex;
+	}
+
+	#linkedin-contact {
+		
 	}
