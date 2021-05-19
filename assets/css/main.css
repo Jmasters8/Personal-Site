@@ -4183,3 +4183,77 @@ input, select, textarea {
 		width: 80px;
 		height: 50px;
 	}
+
+	.jasonhood-links-wrapper {
+		display: flex;
+		justify-content: space-around;
+		padding: 0;
+		padding-right: 10px;
+	}
+
+	.jasonhood-links {
+		list-style: none;
+		padding: 0;
+		display: flex;
+		font-size: 35px;
+	}
+
+	.jasonhood-links:hover span {
+		color: #00c805;
+	}
+
+	.jasonhood-links a {
+		border-bottom: none;
+	}
+
+	.jasonhood-live-img {
+		width: 50px;
+	}
+
+	.jasonhood-github-img {
+		width: 50px;
+	}
+
+	/* .jasonhood-live-link {
+		width: 100%;
+		display: flex;
+		font-size: 25px;
+	}
+
+	.jasonhood-live-link a {
+		border-bottom: none;
+	}
+
+	.jasonhood-github-link {
+		width: 100%;
+		display: flex;
+		justify-content: flex-end;
+		padding-right: 60px;
+		font-size: 25px;
+	}
+
+	.jasonhood-github-link a {
+		border-bottom: none;
+	}
+
+	.jasonhood-img {
+		width: 28%;
+	}
+
+	.github-img {
+		width: 18%;
+	}
+
+	.jasonhood-live-link-tags {
+		width: 100%;
+		border-bottom: none;
+		display: flex;
+		justify-content: flex-end;
+	}
+
+	.jasonhood-github-link-tags {
+		width: 100%;
+		border-bottom: none;
+		display: flex;
+		justify-content: flex-end;
+	} */
