@@ -4159,12 +4159,25 @@ input, select, textarea {
 
 	}
 
-	.skills-text-wrapper {
+	.skills-text-wrapper-1 {
 		display: flex;
 		justify-content: space-evenly;
+		padding-bottom: 10px;
+
+	}
+	.skills-text-wrapper-2 {
+		display: flex;
+		justify-content: space-evenly;
+		padding-bottom: 10px;
 	}
 
-	.skills-img-wrapper {
+	.skills-img-wrapper-1 {
+		display: flex;
+		justify-content: space-evenly;
+		padding-bottom: 10px;
+	}
+
+	.skills-img-wrapper-2 {
 		display: flex;
 		justify-content: space-evenly;
 	}
@@ -4226,5 +4239,20 @@ input, select, textarea {
 	}
 
 	.petconnect-links a {
+		border-bottom: none;
+	}
+
+	.click-links {
+		list-style: none;
+		padding: 0;
+		display: flex;
+		font-size: 35px;
+	}
+
+	.click-links:hover span {
+		color: rgb(0 103 151);
+	}
+
+	.click-links a {
 		border-bottom: none;
 	}
