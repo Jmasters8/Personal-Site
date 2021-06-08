@@ -4265,6 +4265,7 @@ input, select, textarea {
 	#github-contact {
 		padding-left: 0;
 		display: flex;
+		width: 100%;
 	}
 
 	.github-contact-text {
@@ -4285,5 +4286,16 @@ input, select, textarea {
 		display: flex;
 	}
 
-
+	.contact {
+		width: 100% !important;
+	}
+	
+	.contact-info {
+		display: flex;
+		width: 100%;
+	}
+	
+	.icon {
+		width: 100%;
+	}
 	
