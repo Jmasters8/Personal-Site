@@ -4268,6 +4268,7 @@ input, select, textarea {
 		display: flex;
 		/* width: 100%; */
 		width: 40%;
+		padding-left: 50px;
 	}
 
 	.github-contact-text {
