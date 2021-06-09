@@ -4259,17 +4259,20 @@ input, select, textarea {
 	}
 
 	.contact-github-img {
-		width: 9%;
+		/* width: 9%; */
+		width: 38px;
 	}
 
 	#github-contact {
 		padding-left: 0;
 		display: flex;
-		width: 100%;
+		/* width: 100%; */
+		width: 40%;
 	}
 
 	.github-contact-text {
-		padding-left: 13px;
+		/* padding-left: 13px; */
+		padding-top: 10px;
 	}
 
 	/* .github-contact-text:hover {
@@ -4277,7 +4280,8 @@ input, select, textarea {
 	} */
 
 	.github-link-a {
-		padding-top: 6px;
+		/* padding-top: 6px; */
+		width: 38px;
 	}
 
 
@@ -4296,6 +4300,7 @@ input, select, textarea {
 	}
 	
 	.icon {
-		width: 100%;
+		/* width: 100%; */
+		width: 80%;
 	}
 	
