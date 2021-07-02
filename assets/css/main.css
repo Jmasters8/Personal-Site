@@ -4263,11 +4263,16 @@ input, select, textarea {
 		width: 38px;
 	}
 
+	.contact-linkedin-img {
+		width: 30px;
+	}
+
 	#github-contact {
 		padding-left: 0;
 		display: flex;
 		/* width: 100%; */
-		width: 40%;
+		/* width: 40%; */
+		width: 50%;
 		padding-left: 50px;
 	}
 
@@ -4306,5 +4311,9 @@ input, select, textarea {
 	}
 	
 	.major {
+		text-align: center;
+	}
+
+	#phone {
 		text-align: center;
 	}
